@@ -33,5 +33,6 @@ class Program
         }
 
         Console.WriteLine($"Количество квадратов: {totalSquares}");
+        Console.ReadKey();
     }
 }
