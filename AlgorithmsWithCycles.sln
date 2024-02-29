@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsWithCycles", "AlgorithmsWithCycles\AlgorithmsWithCycles.csproj", "{04E94531-77C6-4CC5-A4C2-343DCC050C7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task1", "task1\task1.csproj", "{86E6070D-2479-4FBC-8A32-E7872A9ECF4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{04E94531-77C6-4CC5-A4C2-343DCC050C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04E94531-77C6-4CC5-A4C2-343DCC050C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04E94531-77C6-4CC5-A4C2-343DCC050C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E6070D-2479-4FBC-8A32-E7872A9ECF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E6070D-2479-4FBC-8A32-E7872A9ECF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E6070D-2479-4FBC-8A32-E7872A9ECF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E6070D-2479-4FBC-8A32-E7872A9ECF4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
