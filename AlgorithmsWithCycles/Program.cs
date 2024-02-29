@@ -13,5 +13,6 @@ class Program
             Sum += 2 * i; 
         }
         Console.WriteLine("Сумма: {0}", Sum);
+        Console.ReadKey();
     }
 }

@@ -25,5 +25,6 @@ class Program
             square = sum; // Сумма слагаемых до текущего шага равна квадрату числа
             Console.WriteLine("Итерация: {0} / Сумма {1}", i, square);
         }
+        Console.ReadKey();
     }
 }
